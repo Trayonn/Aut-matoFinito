@@ -1,0 +1,26 @@
+Simulação do Autômato
+
+#Autômato Finito CC_D1
+#Lucas Luiz Moreira Urani, Kauan Mendes Caetano
+#Guilherme Bastos, João Victor
+
+Estado Inicial: Inicio
+
+Transições:
+Inicio --(A)--> Caverna
+Inicio --(B)--> Piratas
+Caverna --(A)--> Floresta
+Caverna --(B)--> Inicio
+Piratas --(A)--> Colinas
+Piratas --(B)--> Acampamento
+Colinas --(A)--> Caverna
+Colinas --(B)--> Montanhas
+Floresta --(A)--> Colinas
+Floresta --(B)--> Montanhas
+Montanhas --(A)--> Animais
+Montanhas --(B)--> Árvore
+
+Estados Finais:
+Árvore (Vitória)
+Acampamento (Armadilha)
+Animais (Armadilha)
