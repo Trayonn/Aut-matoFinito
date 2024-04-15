@@ -7,7 +7,7 @@ def exibir_opcoes(ponto_atual):
     opcoes = {
         "Inicio": "Você está no Início. Escolha para onde ir:\nA - Caminho a direita\nB - Caminho a esquerda",
         "Caverna": "Você chegou em um local com diversas cavernas. Escolha para onde ir:\nA - Caminho a direita\nB - Caminho a esquerda",
-        "Piratas": "Você chegou em um campo de piratas, você escuta conversas sobre um grupo de foragidos acampando perto dessa localização. Escolha para onde ir:\nA - Caminho a direita\nB - Caminho a esquerda",
+        "Piratas": "Você chegou em um campo de piratas, você escuta conversas sobre um grupo de foragidos acampando a bombordo dessa localização. Escolha para onde ir:\nA - Caminho a direita\nB - Caminho a esquerda",
         "Acampamento": "Você cruzou caminho com os foragidos. CUIDADO! É uma armadilha! O jogo acabou!",
         "Colinas": "Você chega a duas pequenas colinas, na sua esquerda há uma estrada de terra que leva a diversas montanhas, na sua direita você observa entradas de cavernas. Escolha pra onde ir: \nA- Caminho a direita\nB - Caminho a esquerda",
         "Floresta": "Saindo da caverna, você se encontra em uma extensa floresta. Escolha para onde ir:\nA- Caminho a direita\nB- Caminho a esquerda",
