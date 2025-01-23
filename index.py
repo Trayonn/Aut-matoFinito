@@ -1,6 +1,3 @@
-#Autômato Finito CC_D1
-#Lucas Luiz Moreira Urani, Kauan Mendes Caetano, Guilherme Bastos, João Victor Souza
-
 
 # Função para exibir as opções disponíveis
 def exibir_opcoes(ponto_atual):
