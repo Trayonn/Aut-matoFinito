@@ -1,6 +1,6 @@
 Simulação do Autômato
 
-#Autômato Finito C
+#Autômato Finito 
 
 Estado Inicial: Inicio
 
