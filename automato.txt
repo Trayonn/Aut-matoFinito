@@ -1,7 +1,6 @@
 Simulação do Autômato
 
-#Autômato Finito CC_D1
-#Lucas Luiz Moreira Urani, Kauan Mendes Caetano, Guilherme Bastos, João Victor Souza
+#Autômato Finito C
 
 Estado Inicial: Inicio
 
