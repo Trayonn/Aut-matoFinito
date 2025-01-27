@@ -1,5 +1,5 @@
-#Autômato Finito CC_D1
-#Lucas Luiz Moreira Urani, Kauan Mendes Caetano, Guilherme Bastos, João Victor Souza
+#Autômato Finito
+#Lucas Luiz Moreira Urani
 
 # Função para encontrar todos os caminhos em um grafo
 def find_all_paths(graph, start, end, path=[]):
