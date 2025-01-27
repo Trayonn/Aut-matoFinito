@@ -1,5 +1,4 @@
 #Autômato Finito
-#Lucas Luiz Moreira Urani
 
 # Função para encontrar todos os caminhos em um grafo
 def find_all_paths(graph, start, end, path=[]):
